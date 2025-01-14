@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738522198227",
+    "project_id": "rrbikerental-e8507",
+    "storage_bucket": "rrbikerental-e8507.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738522198227:android:8d3b9c4f4cb37d689ae426",
+        "android_client_info": {
+          "package_name": "com.example.rrbikerental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP0oBKa27GykeF-5kJpaSiDvUjqXWML9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
