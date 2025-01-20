@@ -1,1 +1,41 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"rrbikerental-e8507","appId":"1:738522198227:android:8d3b9c4f4cb37d689ae426","fileOutput":"android/app/google-services.json"}},"ios":{"default":{"projectId":"rrbikerental-e8507","appId":"1:738522198227:ios:efdbe9dca31f6bcf9ae426","uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"macos":{"default":{"projectId":"rrbikerental-e8507","appId":"1:738522198227:ios:efdbe9dca31f6bcf9ae426","uploadDebugSymbols":false,"fileOutput":"macos/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"rrbikerental-e8507","configurations":{"android":"1:738522198227:android:8d3b9c4f4cb37d689ae426","ios":"1:738522198227:ios:efdbe9dca31f6bcf9ae426","macos":"1:738522198227:ios:efdbe9dca31f6bcf9ae426","web":"1:738522198227:web:eb0c3002f350d0c59ae426","windows":"1:738522198227:web:fd629ee6d17999369ae426"}}}}}}
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "rrbikerental-e8507",
+                    "appId": "1:738522198227:android:8d3b9c4f4cb37d689ae426",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "ios": {
+                "default": {
+                    "projectId": "rrbikerental-e8507",
+                    "appId": "1:738522198227:ios:efdbe9dca31f6bcf9ae426",
+                    "uploadDebugSymbols": false,
+                    "fileOutput": "ios/Runner/GoogleService-Info.plist"
+                }
+            },
+            "macos": {
+                "default": {
+                    "projectId": "rrbikerental-e8507",
+                    "appId": "1:738522198227:ios:efdbe9dca31f6bcf9ae426",
+                    "uploadDebugSymbols": false,
+                    "fileOutput": "macos/Runner/GoogleService-Info.plist"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "rrbikerental-e8507",
+                    "configurations": {
+                        "android": "1:738522198227:android:8d3b9c4f4cb37d689ae426",
+                        "ios": "1:738522198227:ios:efdbe9dca31f6bcf9ae426",
+                        "macos": "1:738522198227:ios:efdbe9dca31f6bcf9ae426",
+                        "web": "1:738522198227:web:eb0c3002f350d0c59ae426",
+                        "windows": "1:738522198227:web:fd629ee6d17999369ae426"
+                    }
+                }
+            }
+        }
+    }
+}
